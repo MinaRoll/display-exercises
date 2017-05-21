@@ -1,0 +1,127 @@
+body{
+	font-family: "Arial";
+}
+
+.laboratoria, .transformacion{
+	background-color: #FFFF00;	
+	padding-bottom: 40px;
+	padding-left: 5px;
+	padding-top: 10px;
+}
+
+.es{
+	background-color: #FF1493;
+	padding-bottom: 40px;
+	padding-left: 5px;	
+	padding-top: 10px;	
+	border: 1px solid black;
+}
+
+.laboratoria1, .transformacion1{
+	display: block;
+	width: 200px;
+	background-color: #FFFF00;	
+	padding-bottom: 40px;
+	padding-left: 5px;
+	padding-top: 10px;
+	margin:10px;
+}
+
+.es1{
+	display: block;
+	width: 200px;	
+	background-color: #FF1493;
+	padding-bottom: 40px;
+	padding-left: 5px;
+	padding-top: 10px;		
+	margin:10px;	
+}
+
+.laboratoria2, .transformacion2{	
+	display: inline;	
+	background-color: #FFFF00;
+	padding-right: 10px;
+	padding-top: 8px;
+	padding-bottom: 6px;
+	text-align: center-left;
+
+}
+
+.es2{
+	display: inline;	
+	background-color: #FF1493;	
+	padding-right: 10px;
+	padding-top: 8px;	
+	padding-bottom: 6px;
+	text-align: center;
+}
+
+
+.laboratoria3, .transformacion3{
+	width: 200px;
+	height: 80px;		
+	display: inline-block;
+	background-color: #FFFF00;
+	padding: 5px;
+	margin: 5px;
+}
+
+.es3{	
+	display: inline-block;	
+	background-color: #FF1493;	
+	padding: 5px;
+	width: 200px;
+	height: 80px;	
+	margin: 5px;				
+}
+
+span{
+	color: black;
+	text-align: center-left;
+	margin: 10px;
+}
+
+
+.uno, .siete{
+	display: block;
+	background-color: #7CFC00;
+	width: 30px;
+	height: 30px;
+	padding: 3.5%;	
+	margin: 20px 0 20px 10px;	
+}
+
+.juntos{
+	display: block;	
+	width: 430px;
+	height: 120px;	
+	background-color: #FF1493;
+	padding: 2%;
+	margin: 20px 0px 20px 10px;		
+}
+
+.dos, .tres, .cuatro{
+	display: inline-block;
+	background-color: #00FFFF;	
+	padding: 30px;
+	width: 60px;
+	height: 60px;			
+}
+
+.juntos-dos{
+	display: block;	
+	width: 380px;
+	height: 120px;	
+	padding-left: 10px;
+	margin: 20px 0 30px;	
+}
+
+
+.cinco, .seis{
+	display: inline-block;	
+	background-color: #7CFC00;	
+	padding: 30px;
+	width: 60px;
+	height: 60px;
+
+}
